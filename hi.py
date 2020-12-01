@@ -65,5 +65,5 @@ def kubra():
     print("Merhabalar")
 
 def Fatih():
-    print("Bende yaptim bu odevi:)")
+    print("Bende yaptim bu odevi:). Deneme 2")
 
