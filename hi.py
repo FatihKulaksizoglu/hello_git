@@ -63,3 +63,7 @@ def mehmet_tan():
 
 def kubra():
     print("Merhabalar")
+
+def Fatih():
+    print("Bende yaptim bu odevi:)")
+
